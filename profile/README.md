@@ -3,7 +3,7 @@
 # What is your organization all about ?
 * Turning ideas of real life problems into practical AI applications.
 
-* contact: indhra@tatvlabs.com
+* contact: hello@tatvlabs.com
 <!--
 
 **Here are some ideas to get you started:**
