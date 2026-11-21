@@ -1,7 +1,6 @@
-## Hi there 👋
+# Tatv Labs
 
-# What is your organization all about ?
-* Turning ideas of real life problems into practical AI applications.
+Tatv Labs develops AI applications for real-world problems.
 
 * contact: hello@tatvlabs.com
 <!--
